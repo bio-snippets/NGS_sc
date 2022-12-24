@@ -1,5 +1,12 @@
 # NGS_sc
 
+UPDATE:
+2022-12-24. Corrections were made for 1.4 and a 1.7 tasks based on this table
+https://docs.google.com/spreadsheets/d/1mLhiUCg7PdmW0oENUhEi12GsAIxOeuBet9Bh4DTASMg/edit#gid=0
+The corrections start and end can be found with ctrl+F FIX_START and FIX_END respectively.
+
+
+
 RESTART RUNTIME (ctrl+M) AFTER EXECUTING THE CELL WHERE LIBRARIES ARE INSTALLED AND UNINSTALLED
 
 This is required because matplotlib 3.5 doesn't work properly for some reason
